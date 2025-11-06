@@ -41,13 +41,13 @@ You must have the following tools installed on your Linux/macOS machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/aws-cleanup-checker.git](https://github.com/YOUR_GITHUB_USERNAME/aws-cleanup-checker.git)
-    cd aws-cleanup-checker
+    git clone [https://github.com/VedantKCSE/AWS-Specter.git](https://github.com/VedantKCSE/AWS-Specter.git)
+    cd AWS-Specter
     ```
-2.  **Save the Script:** Ensure the file is named `aws-cleanup-checker.sh`.
+2.  **Save the Script:** Ensure the file is named `main.sh`.
 3.  **Make it Executable:**
     ```bash
-    chmod +x aws-cleanup-checker.sh
+    chmod +x main.sh
     ```
 
 ### 3. Execution
@@ -55,14 +55,14 @@ You must have the following tools installed on your Linux/macOS machine:
 Run the script directly from your terminal:
 
 ```bash
-./aws-cleanup-checker.sh
+./main.sh
 ```
 
 ### 4. Customizing Regions
 **Before running**, you may edit the ALL_REGIONS variable at the top of the script (line 4) to include only the regions relevant to your account for faster scanning, though scanning all known regions is recommended for full security.
 
 ```bash
-# Example customization in aws-cleanup-checker.sh
+# Example customization in main.sh
 ALL_REGIONS="us-east-1 us-west-2 eu-central-1"
 ```
 
