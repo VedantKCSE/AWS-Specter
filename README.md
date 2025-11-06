@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-[![GitHub stars](https://img.shields.io/github/stars/VedantKCSE/AWS-Specterr?style=social)](https://github.com/YOUR_GITHUB_USERNAME/aws-cleanup-checker/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/VedantKCSE/AWS-Specter?style=social)](https://github.com/VedantKCSE/AWS-Specter/stargazers)
 
 **Stop accidental cloud billing!** A simple, powerful, and fast command-line tool for indie developers and small teams to audit AWS accounts for forgotten, chargeable resources across all regions. This script targets the most common "silent cost killers" that lead to unexpected bills.
 
