@@ -41,7 +41,7 @@ You must have the following tools installed on your Linux/macOS machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/VedantKCSE/AWS-Specter.git](https://github.com/VedantKCSE/AWS-Specter.git)
+    git clone https://github.com/VedantKCSE/AWS-Specter.git
     cd AWS-Specter
     ```
 2.  **Save the Script:** Ensure the file is named `main.sh`.
